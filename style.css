@@ -1,0 +1,202 @@
+
+
+logo{
+    height: 400px;
+    width: 400px;
+    }
+
+body {  
+        background-color: #F0F8FF;     
+    }
+    
+h1{
+        text-align: right;
+    }
+.flexbox{
+    padding: 50px;
+    display: flex;
+    margin-top: 250px;
+    }    
+
+.flexbox li{
+    list-style-type: none;
+    min-height: 190px;
+    min-width: 190px;
+    margin: 50px;
+    border-image: 20px;
+    font-size: 2.5rem;
+    }
+.flexbox img{
+    width: 200px;
+    height: 200px;
+    }
+
+.hautpage {
+    padding-left: 50px;
+    display: flex;
+    min-width: 500px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    text-align: left;
+    }
+  
+.menuhaut{
+    display: flex;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    display: flex;
+    padding-left: 0px;
+    }
+
+.menuhaut a{
+    display: block;
+    min-width: 120px;
+    padding: 2rem;
+    }
+
+
+.histoireparfum {
+    font-size: 2.5rem;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+
+
+h1  {
+    font-size: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.echantillon{
+    list-style-type: none;
+
+    }
+
+.titreasie{
+    margin: 50px;
+    display: flex;
+    min-width: 500px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    justify-items: center ;
+
+    }
+
+.parfumeurope{
+    margin: 50px;
+    display: flex;
+    min-width: 500px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    justify-items: center ;
+    }
+
+.pageorient{
+    margin: 50px;
+    display: flex;
+    min-width: 500px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    justify-items: center ;
+    }
+
+.huilespray {
+    margin: 50px;
+    display: flex;
+    min-width: 500px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    justify-items: center ;
+    }
+
+.histoire {
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+
+footer{
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-items: center;
+    background-color: beige;
+    margin-top: 300px;
+    }
+
+footer li{
+    list-style-type: none;
+    padding: 25px;
+    display: inline-block;
+
+    }
+
+form {
+    /* On centre le formulaire */
+    margin: 0 auto;
+    width: 5px;
+    /* Le contour du formulaire */
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    }
+  
+ul {
+    list-style: none;
+    padding: 10px;
+ 
+     }
+  
+form li + li {
+    margin-top: 1rem;
+    }
+  
+label {
+   
+    display: inline-block;
+    width: 100px;
+    text-align: auto;
+    }
+  
+input,
+textarea {
+  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 500px;
+    box-sizing: border-box;
+    border: 2px solid #999;
+  }
+
+input:focus,
+textarea:focus {
+ border-color: #000;
+}
+
+textarea {
+vertical-align: top;
+height: 5em;
+resize: vertical;
+    }
+
+.button {
+    padding-left: 90px; 
+    }
+
+button {
+ margin-left: 730px;
+    }
+
+    
+
+
+

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../site/site parfum Damas/image"
+		},
+		{
+			"path": "../site/site parfum Damas/videos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site moto"
+	}
+}
