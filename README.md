@@ -5,7 +5,7 @@ Ceci est un site test!
 - 🌱 je vais commencer ma formation dev web full stack au sein de la Wild Code School fin septembre.
 - 💞️ J'autorise l'accès au site test pour avoir des retours d'aide à la mise en page et tout autres aides construtives
 - 📫 l'URL de mon Linkedin: https://www.linkedin.com/in/damien-disdier-69329a320/
-- L'URL de mon github:  
+- L'URL de mon github: https://github.com/DamienDisdier/exercice.git
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
